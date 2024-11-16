@@ -25,11 +25,17 @@ The project is divided into multiple weekly tasks, each focusing on specific asp
   2. Identify the strengths and weaknesses of each model.
   3. Select the best-fit model and provide detailed reasoning.
   4. Show a reuse-oriented approach for the project.
+
+---
+
+### **Week 3: Case Study **
+- **Goal:** Analyze Case Study.
+- **Tasks:**  
 - **Case Study:** [Agile Methodology](https://medium.com/@ashutoshagrawal1010/agile-methodology-incremental-and-iterative-way-of-development-a6614116ae68#:~:text=Agile%20method%20combines%20both%20incremental,is%20delivered%20throughout%20the%20project.).
 
 ---
 
-### **Week 3: Requirements Engineering**
+### **Week 4: Requirements Engineering**
 - **Goal:** Define stakeholders and requirements for the project.
 - **Tasks:**  
   1. Identify stakeholders.
@@ -38,17 +44,17 @@ The project is divided into multiple weekly tasks, each focusing on specific asp
 
 ---
 
-### **Week 4 (Part 1): Use Case Analysis**
+### **(Part 1): Use Case Modeling**
 - **Goal:** Develop detailed use case scenarios for the project.
 - **Tasks:**  
   1. Identify actors (at least 4) and use cases (at least 6).
   2. Create a table of actors and use case descriptions.
   3. Define the flow of events for each use case.
-  4. Develop a use case diagram (using Papyrus is optional).
+  4. Develop a use case diagram (using Papyrus).
 
 ---
 
-### **Week 4 (Part 2): Use Case Refinement**
+### **Week 5 (Part 1): Use Case Refinement**
 - **Goal:** Refine and update use case scenarios.
 - **Tasks:**  
   1. Update stakeholders, functional, and non-functional requirements.
@@ -59,7 +65,7 @@ The project is divided into multiple weekly tasks, each focusing on specific asp
 
 ---
 
-### **Week 5: Software Architecture**
+### **Week 6: Software Architecture**
 - **Goal:** Define the architecture and design of the system.
 - **Tasks:**  
   1. Design a Model-View-Controller (MVC) architecture.
@@ -71,15 +77,19 @@ The project is divided into multiple weekly tasks, each focusing on specific asp
 
 ---
 
-### **Week 6: System Context**
+### **Week 7: System Context**
 - **Goal:** Detail the system context and provide a high-level overview.
 - **Tasks:**  
   1. Describe the system context in detail.
   2. Create a system context diagram.
+  3. Updated use case diagram
+  4. Updated sequence diagram
+  5. State diagram
+  6. Interface specification 
 
 ---
 
-### **Week 7: Testing and Implementation Planning**
+### **Week 8: Testing and Implementation Planning**
 - **Goal:** Prepare for testing and implementation of the system.
 - **Tasks:**  
   1. Perform use case testing:
@@ -91,7 +101,7 @@ The project is divided into multiple weekly tasks, each focusing on specific asp
 
 ---
 
-### **Week 8: Implementation Plan**
+### **Week 9: Implementation Plan**
 - **Goal:** Create a comprehensive implementation plan.
 - **Tasks:**  
   1. **Overview:** Describe the significant goal of the implementation plan.
