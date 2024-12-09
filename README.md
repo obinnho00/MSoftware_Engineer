@@ -2,8 +2,7 @@
 
 ## Overview
 
-The Advanced Smart Inventory Stock Management System project follows a structured and iterative approach to develop a robust inventory management solution. This project aims to demonstrate the application of software engineering principles, from initial proposals and requirement analysis to design, implementation, and testing, using real-world methodologies.
-The project is divided into multiple weekly tasks, each focusing on specific aspects of software development. These tasks include analyzing software process models, defining requirements, creating system designs, and implementing/testing selected use cases. The final outcome is a well-documented and functional prototype tailored for small to mid-sized businesses.
+The Advanced Smart Inventory Stock Management System project adopts an iterative approach to build a robust solution, applying software engineering principles from analysis to testing. Weekly tasks cover process modeling, requirement analysis, system design, and implementation, culminating in a functional prototype for small to mid-sized businesses.
 
 
 
